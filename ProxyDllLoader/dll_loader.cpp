@@ -1,6 +1,6 @@
 #include "file_utils.hpp"
 
-#define LOADER_FOLDER_NAME "adaf-dll"
+#define LOADER_FOLDER_NAME "CRaZyHaX/DLLs"
 
 #ifndef UNICODE
     #define LOADER_STR string
